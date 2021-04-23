@@ -4,13 +4,13 @@ Autor: Prof. Fabiano Costa Teixeira
 
 ## Resumo
 
-Essa é uma aplicação front-end que realiza a persistência de dados utilizando a LocalStorage. São disponibilizados recursos para cadastro e recuperação dos dados.
+Essa é uma aplicação front-end que realiza a persistência de dados utilizando a LocalStorage. São disponibilizados recursos para cadastro e recuperação das informações.
 
 ## Linguagens e Frameworks
 
-São utilizados nesse exemplo as seguintes linguagens e frameworks:
+São utilizadas nesse exemplo as seguintes linguagens e frameworks:
 <ul>
-  <li>HTTML</li>
+  <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
   <li>Bootstrap</li>
@@ -21,8 +21,8 @@ São utilizados nesse exemplo as seguintes linguagens e frameworks:
 A aplicação possui um menu superior para navegação onde são encontradas as opções:
 <ul>
   <li>Cadastro: realiza a inserção ou atualização de dados na LocalStorage</li>
-  <li>Relatório (InnerHTML): realiza a busca dos dados na LocalStorage e atualiza a tabela por meio da geração de um trecho de HTML contendo o corpo da tabela. Esse trecho de HTML é atualizado por meio do InnerHTML</li>
-  <li>Relatório (DOM): realiza a busca dos dados na LocalStorage e atualiza a tabela por meio da manipulação da árvore DOM, onde são criados e inseridos novos elementos <TR>, <TD> e <A></li>
+  <li>Relatório (InnerHTML): realiza a busca dos dados na LocalStorage e atualiza a tabela por meio da geração de um trecho de HTML contendo o corpo dessa tabela. Esse trecho de HTML é atualizado por meio do InnerHTML</li>
+  <li>Relatório (DOM): realiza a busca dos dados na LocalStorage e atualiza a tabela por meio da manipulação da árvore DOM, onde são criados e inseridos novos elementos TR, TD e A</li>
 </ul>
     
  Na imagem abaixo é apresentada a tela de cadastro.
