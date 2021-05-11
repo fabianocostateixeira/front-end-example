@@ -6,6 +6,8 @@ Autor: Prof. Fabiano Costa Teixeira
 
 Essa é uma aplicação front-end que realiza a persistência de dados utilizando a LocalStorage. São disponibilizados recursos para cadastro e recuperação das informações.
 
+IMPORTANTE: a implementação em Javascript está no arquivo script.js
+
 ## Linguagens e Frameworks
 
 São utilizadas nesse exemplo as seguintes linguagens e frameworks:
