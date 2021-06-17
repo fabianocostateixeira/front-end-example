@@ -1,6 +1,6 @@
 # APLICAÇÃO FRONT-END DE EXEMPLO
 
-Autor: Prof. Fabiano Costa Teixeira
+Autor: Prof. Fabiano Costa Teixeira.
 
 ## Resumo
 
